@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/DataModels/.vs/DataModels/v16/TestStore/0
+/.vs
+/DataModels/.vs/DataModels/v16
+/DataModels/DataModels/bin/Debug/net5.0
+/DataModels/DataModels/obj
+/DataModels/Tests/bin/Debug/net5.0
+/DataModels/Tests/obj
